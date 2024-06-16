@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to GoldBank accounts related Prod APIs"
+  contactDetails:
+    name: "John Doe - Prod"
+    email: "john@goldbank.com"
+  onCallSupport:
+    - (123) 123-1234
+    - (123) 123-1234
