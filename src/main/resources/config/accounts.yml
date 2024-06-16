@@ -26,3 +26,9 @@ accounts:
   onCallSupport:
     - (123) 123-1234
     - (123) 123-1234
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
