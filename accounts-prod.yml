@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to GoldBank accounts related Production APIs"
+  message: "Welcome to GoldBank accounts related to Production APIs"
   contactDetails:
     name: "John Doe - Prod"
     email: "john@goldbank.com"
